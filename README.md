@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently learning deep learning with [fastai](https://www.fast.ai/)
 - 👯 I’m looking to collaborate on data science projects
-- 💬 Ask me about the Universe
+- 💬 Ask me about space
 - ⚡ Fun fact: Did you know that no english word has three consecutive repeated letters?
 
 <!--
