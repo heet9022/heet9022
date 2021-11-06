@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+- 😄 Pronouns: He/Him/His
 - 🌱 I’m currently learning deep learning with [fastai](https://www.fast.ai/)
 - 👯 I’m looking to collaborate on data science or AI-related projects
 - 💬 Ask me about space
