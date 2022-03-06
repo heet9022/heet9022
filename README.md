@@ -3,7 +3,7 @@
 - 😄 Pronouns: He/Him/His
 - 🌱 I’m currently learning deep learning with [fastai](https://www.fast.ai/)
 - 👯 I’m looking to collaborate on data science or AI-related projects
-- 💬 Ask me about space
+- 💬 Ask me about Astrophysics
 - ⚡ Fun fact: Did you know that no English word has three consecutive repeated letters?
 
 <!--
