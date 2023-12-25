@@ -1,10 +1,10 @@
 ### Hi there 👋
 
 - 😄 Pronouns: He/Him/His
-- 🌱 I’m currently learning deep learning with [fastai](https://www.fast.ai/)
+- 🌱 I recently graduated with a Master's in Artificial Intelligence
 - 👯 I’m looking to collaborate on data science or AI-related projects
-- 💬 Ask me about Astrophysics
 - ⚡ Fun fact: Did you know that no English word has three consecutive repeated letters?
+- 📫 How to reach me: heetsakaria@gmail.com
 
 <!--
 **heet9022/heet9022** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
