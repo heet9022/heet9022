@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 😄 Pronouns: He/Him/His
-- 🌱 I recently graduated with a Master's in Artificial Intelligence
+- 🌱 AI Engineer with 3+ years of experience and a Msc. in AI.
 - 👯 I’m looking to collaborate on data science or AI-related projects
 - ⚡ Fun fact: Did you know that no English word has three consecutive repeated letters?
 - 📫 How to reach me: heetsakaria@gmail.com
